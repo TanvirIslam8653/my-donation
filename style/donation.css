@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-image: url('../images/donation7.jpg');
+}
+.banner{
+    text-align: center;
+    padding: 175px 307px;
+}
+.banner-title{
+ position: absolute;
+width: 826px;
+height: 158px;
+left: 307px;
+top: 174px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 79px;
+text-align: center;
+color: #FFFFFF;
+}
+.banner-description{
+position: absolute;
+width: 691px;
+height: 56px;
+left: 391px;
+top: 332px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+color: #FFFFFF;
+
+}
+.btn-primary{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 12px;
+    gap: 8px;
+    position: absolute;
+    width: 160px;
+    height: 56px;
+    left: 640px;
+    top: 438px; 
+    background: #FF5959;
+    border-radius: 5px;
+    border: none;
+}
